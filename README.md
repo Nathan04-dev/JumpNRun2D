@@ -1,12 +1,12 @@
-Ein schnelles selbstentwickeltes Jump-and-Run-Spiel 
+Ein Jump-and-Run-Spiel entwickelt von Nathanael Mabombo
 
 Features:
 
 Flüssige Steuerung und präzise Sprünge
 
-Spannende Level voller Hindernisse
+Spannend voller Hindernisse
 
-Gebaut mit C# und Unity
+Programmiert mit C# 
 
 
 <img width="800" height="450" alt="github-gif" src="https://github.com/user-attachments/assets/62e2cd01-bcb2-4892-8fde-34af221c0ef4" />
