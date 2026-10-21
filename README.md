@@ -1,12 +1,13 @@
+# 🏠 JumpNRun2D
+
 Ein Jump-and-Run-Spiel entwickelt von Nathanael Mabombo
-
-Features:
-
+Spannend voller Hindernisse
 Flüssige Steuerung und präzise Sprünge
 
-Spannend voller Hindernisse
-
-Programmiert mit C# 
+## 🛠️ Tech Stack
+* **Programmiert mit C#**
+* **Framework: .NET**
+* **Engine: Unity** 
 
 
 <img width="800" height="450" alt="github-gif" src="https://github.com/user-attachments/assets/62e2cd01-bcb2-4892-8fde-34af221c0ef4" />
