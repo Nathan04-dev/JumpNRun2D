@@ -1,4 +1,4 @@
-# 🏠 JumpNRun2D
+# 🦘 JumpNRun2D
 
 Ein Jump-and-Run-Spiel entwickelt von Nathanael Mabombo
 Spannend voller Hindernisse
